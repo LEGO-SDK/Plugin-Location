@@ -1,0 +1,10 @@
+{
+    "name": "Location",
+    "api": "Native.Location",
+    "request": {
+        "precision": "string"
+    },
+    "response": {
+        "location": "string"
+    }
+}
